@@ -30,6 +30,10 @@ html {
   top: 1rem;
 }
 
+.container img {
+  max-width: 100vw;
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
