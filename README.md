@@ -1,6 +1,6 @@
 # cratetest
 
-> Nuxt.js project
+> Quick Nuxt demo for Martin M. for the Crate project.
 
 ## Build Setup
 
